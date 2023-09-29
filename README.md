@@ -19,3 +19,13 @@
 ## Software Utilizado
 |Nomnbre de Software|Version|Tipo|
 |-|-|-|
+|Arduino IDE|2.2.2|Software Libre|
+|SQLite|3|Software Libre|
+
+## Dibujo del Prototipo a Desarrollar
+--Dibujo--
+
+## Comunicacion
+El prototipo al acercarse una persona, se encenderan unos leds, realizara movimintos y realizara un Sonido el cual sera de la trompeta.
+Cuando la persona se Aleje se detendra en 10 degundo despues de destectar que no se detecto algo con el sensor de proximidad.
+

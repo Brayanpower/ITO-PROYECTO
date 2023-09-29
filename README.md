@@ -1,2 +1,4 @@
-# ITO-PROYECTO
-Datos generale de nuestro proyecto de IOT GDS0542
+# Personaje
+
+## Nombre del Personaje
+ Ángel con trompeta

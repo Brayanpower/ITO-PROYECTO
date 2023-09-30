@@ -23,9 +23,10 @@
 |SQLite|3|Software Libre|
 
 ## Dibujo del Prototipo a Desarrollar
---Dibujo--
+![image](https://github.com/Brayanpower/ITO-PROYECTO/assets/116902837/ac167a6e-afeb-44fe-9f4d-ad7ff7d7f7cd)
 
 ## Comunicacion
 El prototipo al acercarse una persona, se encenderan unos leds, realizara movimintos y realizara un Sonido el cual sera de la trompeta.
 Cuando la persona se Aleje se detendra en 10 degundo despues de destectar que no se detecto algo con el sensor de proximidad.
+
 

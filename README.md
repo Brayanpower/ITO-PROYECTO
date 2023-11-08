@@ -23,7 +23,8 @@
 |SQLite|3|Software Libre|
 
 ## Dibujo del Prototipo a Desarrollar
-![image](https://github.com/Brayanpower/ITO-PROYECTO/assets/116902837/ac167a6e-afeb-44fe-9f4d-ad7ff7d7f7cd)
+![image](https://github.com/Brayanpower/ITO-PROYECTO/assets/116902837/9ca1b66f-ff45-439d-a5e0-dc2a3761a67b)
+
 
 ## Comunicacion
 El prototipo al acercarse una persona, se encenderan unos leds, realizara movimintos y realizara un Sonido el cual sera de la trompeta.

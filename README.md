@@ -23,7 +23,8 @@
 |SQLite|3|Software Libre|
 
 ## Dibujo del Prototipo a Desarrollar
-![image](https://github.com/Brayanpower/ITO-PROYECTO/assets/116902837/9ca1b66f-ff45-439d-a5e0-dc2a3761a67b)
+![image](https://github.com/Brayanpower/ITO-PROYECTO/assets/116902837/04e670e0-6e7a-47aa-84b8-e58e8218fb77)
+
 
 
 ## Comunicacion

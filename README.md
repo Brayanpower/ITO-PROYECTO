@@ -31,4 +31,6 @@
 El prototipo al acercarse una persona, se encenderan unos leds, realizara movimintos y realizara un Sonido el cual sera de la trompeta.
 Cuando la persona se Aleje se detendra en 10 degundo despues de destectar que no se detecto algo con el sensor de proximidad.
 
+## cableado en WOWI (prototipo de comunicacion de componenetes)
+https://wokwi.com/projects/380856016571722753
 

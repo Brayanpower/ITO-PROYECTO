@@ -26,6 +26,15 @@
 ![image](https://github.com/Brayanpower/ITO-PROYECTO/assets/116902837/04e670e0-6e7a-47aa-84b8-e58e8218fb77)
 
 
+## video de demostación de su funcionamiento
+## código empleado en C y micropython
+
+## micropython
+
+## C
+ 
+
+
 
 ## Comunicacion
 El prototipo al acercarse una persona, se encenderan unos leds, realizara movimintos y realizara un Sonido el cual sera de la trompeta.

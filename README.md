@@ -30,7 +30,10 @@
 
 ## Dibujo del Prototipo a Desarrollar
 ![image](https://github.com/Brayanpower/ITO-PROYECTO/assets/116902837/04e670e0-6e7a-47aa-84b8-e58e8218fb77)
-
+## Imagenes
+![Imagen de WhatsApp 2023-12-05 a las 14 46 28_954d4fc5](https://github.com/Brayanpower/ITO-PROYECTO/assets/116902837/28284faf-eb13-4c36-9e09-81dbfc121849)
+![Imagen de WhatsApp 2023-11-30 a las 19 30 04_659a97f4](https://github.com/Brayanpower/ITO-PROYECTO/assets/116902837/b66e9ae2-4d05-40ae-82bd-55548a1422d0)
+![Imagen de WhatsApp 2023-11-29 a las 18 29 06_bf20ecbc](https://github.com/Brayanpower/ITO-PROYECTO/assets/116902837/d96bfd64-4460-4fd0-a595-90b70754672e)
 
 ## video de demostación de su funcionamiento
 https://drive.google.com/file/d/1bX-JUS9kvPdHy2q244b8ZJKtfxI3zIoR/view?usp=sharing
